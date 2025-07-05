@@ -31,7 +31,7 @@ src
 │           └── TestDataFile.java
 └── test
     ├── java
-    │   └── com/example/tests
+    │   └── com/github/imbharatmalviya/tests
     │       └──  AuthenticationTest.java
     └── resources
         ├── testng.xml
