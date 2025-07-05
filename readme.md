@@ -1,5 +1,8 @@
 # TestNG DataProvider with Custom Annotation and CSV Support
 
+**Read the full article on Medium:**  
+[TestNG DataProvider with custom annotation](https://medium.com/p/5dc1e4109fb6)
+
 This repo shows how to use a custom annotation (`@TestDataFile`) to feed test data from CSV files into TestNG tests
 using a generic, reusable `@DataProvider`.
 
