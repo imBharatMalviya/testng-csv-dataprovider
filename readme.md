@@ -3,6 +3,8 @@
 **Read the full article on Medium:**  
 [TestNG DataProvider with custom annotation](https://medium.com/p/5dc1e4109fb6)
 
+[☕ Buy me a coffee](https://buymeacoffee.com/imbharatmalviya)
+
 This repo shows how to use a custom annotation (`@TestDataFile`) to feed test data from CSV files into TestNG tests
 using a generic, reusable `@DataProvider`.
 
